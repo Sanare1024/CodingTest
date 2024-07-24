@@ -15,7 +15,6 @@ public class DNA {
     public static void main(String[] args) throws IOException { //이것도 이해안감
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); // 상동 (Buffered는 String으로 반환)
         StringTokenizer st = new StringTokenizer(br.readLine()); // BufferedReader로 읽으면 stream 이라 나눠주는거
-        Scanner sc = new Scanner(System.in);
 
         int S = Integer.parseInt(st.nextToken()); //이거 뒤에 붙는거 이해안감
         int P = Integer.parseInt(st.nextToken()); //찾아보니 br로 받은 text를 int형으로 바꿔주는거
