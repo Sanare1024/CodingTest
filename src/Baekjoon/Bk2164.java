@@ -22,7 +22,7 @@ public class Bk2164 {  //백준 2164 카드게임 (큐 형식 문제)
         }
 
         System.out.println(deck.poll());
-
+        
     }
 }
 
