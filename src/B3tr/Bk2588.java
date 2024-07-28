@@ -1,4 +1,4 @@
-package B4tr;
+package B3tr;
 
 import java.util.Scanner;
 
