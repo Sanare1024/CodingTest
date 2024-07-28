@@ -30,7 +30,7 @@ public class Bk17298_3 {
 
             int right = nge[i];
             //4 3 5 2 7
-            while(!temp.isEmpty() && right >= temp.peek()) {
+            while(!temp.isEmpty() && right >= temp.peek()) { // !temp.isEmpty()이게 앞에 있어서 뒤에 오류가 안남
                 temp.pop();
             }
 
