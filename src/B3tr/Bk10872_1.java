@@ -12,15 +12,15 @@ public class Bk10872_1 {//1030 재귀로 풀기
             temp = temp * i;
         }*/
 
-        System.out.println(pactorial(n));
+        System.out.println(factorial(n));
     }
 
-    public static int pactorial(int n) {
+    public static int factorial(int n) {
         if(n <= 1) { //0일때 1값을 리턴해야함
             return 1;
         }
 
-        return n * pactorial(n-1);
+        return n * factorial(n-1);
     }
 
 
