@@ -1,4 +1,4 @@
-package Dfs;
+package DFS;
 
 import java.io.IOException;
 import java.util.Scanner;

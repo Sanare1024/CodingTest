@@ -1,4 +1,4 @@
-package Dfs;
+package DFS;
 
 public class R1_FactorialTest {
 	private static int factorial(int n) {
