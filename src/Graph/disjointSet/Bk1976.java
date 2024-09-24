@@ -1,4 +1,4 @@
-package disjointSet;
+package Graph.disjointSet;
 
 import java.io.BufferedReader;
 import java.io.IOException;
