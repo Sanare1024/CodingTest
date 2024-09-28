@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Bk2252 {
+public class Bk2252_topologicalSort {
     static int n, m;
     static int[] count;
     static ArrayList<ArrayList<Integer>> list;
