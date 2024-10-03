@@ -3,10 +3,9 @@ package Graph;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Bk11657 {
+public class Bk11657_bellmanFord {
     static int n, m;
     static long distance[];
     static Edge edges[];
