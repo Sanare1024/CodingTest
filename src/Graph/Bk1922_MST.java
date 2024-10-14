@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class Bk1922 {
+public class Bk1922_MST {
     static int n, m;
     static int[] parent;
 
