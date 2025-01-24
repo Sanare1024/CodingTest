@@ -2,7 +2,7 @@ package programmers.kakao2019;
 
 import java.util.Stack;
 
-class CarinGame {
+class CraneGame {
     public static int solution(int[][] board, int[] moves) {
         int answer = 0;
         Stack<Integer> stack = new Stack<>();
