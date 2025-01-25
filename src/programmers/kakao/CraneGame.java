@@ -1,4 +1,4 @@
-package programmers.kakao2019;
+package programmers.kakao;
 
 import java.util.Stack;
 
