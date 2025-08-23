@@ -33,7 +33,7 @@ public class Bk16928 {
         visit[start] = true;
 
         while (!q.isEmpty()) {
-            int p[] = q.poll();
+            int[] p = q.poll();
 
             if (p[0] == 100) {
                 System.out.println(p[1]);
