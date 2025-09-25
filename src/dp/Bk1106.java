@@ -30,7 +30,7 @@ public class Bk1106 {
         for (int i = c; i < c + 101; i++) {
             result = Math.min(result, dp[i]);
         }
-
+        
         System.out.println(result);
     }
 }
